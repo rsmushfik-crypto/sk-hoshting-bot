@@ -1,5 +1,0 @@
-Flask
-Flask-Cors
-python-telegram-bot==20.7
-yt-dlp==2024.5.27
-requests
