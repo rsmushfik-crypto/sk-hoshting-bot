@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sqlalchemy
+python-multipart
+pydantic
+python-telegram-bot
+qrcode[pil]
+httpx
+Pillow
